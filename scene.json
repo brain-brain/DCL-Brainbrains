@@ -1,0 +1,29 @@
+{
+  "display": {
+    "title": "Music Shop",
+    "favicon": "favicon_asset",
+    "navmapThumbnail": "scene-thumbnail.png"
+  },
+  "owner": "Brainbrain",
+  "contact": {
+    "name": "metabuilders#66db",
+    "email": "metabuilders.io@gmail.com"
+  },
+  "main": "bin/game.js",
+  "tags": [],
+  "scene": {
+    "parcels": ["7,16", "8,16", "9,16"],
+    "base": "8,16"
+  },
+  "communications": {
+    "type": "webrtc",
+    "signalling": "https://signalling-01.decentraland.org"
+  },
+  "policy": {
+    "contentRating": "E",
+    "fly": true,
+    "voiceEnabled": true,
+    "blacklist": [],
+    "teleportPosition": ""
+  }
+}
